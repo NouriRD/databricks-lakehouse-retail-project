@@ -120,6 +120,8 @@ databricks-streaming-project/
 │
 ├── README.md
 └── requirements.txt
+```
+---
 
 # 🚀 Future Improvements
 
@@ -128,8 +130,11 @@ Real-time ingestion
 Databricks Workflows orchestration
 Dashboard integration
 
+---
+
 # 👨‍💻 Author
 
-Noureddine RIDA
+## Noureddine RIDA
 
 Aspiring Data Engineer passionate about Big Data, Lakehouse Architecture, and Machine Learning.
+
