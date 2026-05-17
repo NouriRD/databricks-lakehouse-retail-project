@@ -121,14 +121,14 @@ databricks-streaming-project/
 ├── README.md
 └── requirements.txt
 
-🚀 Future Improvements
+# 🚀 Future Improvements
 
 Kafka streaming integration
 Real-time ingestion
 Databricks Workflows orchestration
 Dashboard integration
 
-👨‍💻 Author
+# 👨‍💻 Author
 
 Noureddine RIDA
 
