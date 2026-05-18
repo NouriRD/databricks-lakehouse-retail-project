@@ -1,0 +1,17 @@
+Dataset:
+	Brazilian E-Commerce Public Dataset by Olist
+
+Source:
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+Files Used:
+- customers
+- orders
+- products
+- sellers
+- payments
+- reviews
+- geolocation
+
+Note:
+	Raw CSV files were ingested into Databricks 	Volumes and 	transformed using the Medallion 	Architecture.
