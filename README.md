@@ -126,8 +126,11 @@ databricks-streaming-project/
 # 🚀 Future Improvements
 
 Kafka streaming integration
+
 Real-time ingestion
+
 Databricks Workflows orchestration
+
 Dashboard integration
 
 ---
