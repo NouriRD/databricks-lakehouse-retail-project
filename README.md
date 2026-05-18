@@ -16,6 +16,7 @@ The project follows the Medallion Architecture:
 - Silver Layer → Data cleaning and transformation
 - Gold Layer → Business-ready analytics tables
 
+![Architecture](architecture/lakehouse_architecture.png)
 ---
 
 # ⚙️ Technologies Used
