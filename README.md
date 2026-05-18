@@ -140,5 +140,18 @@ Dashboard integration
 
 ## Noureddine RIDA
 
-Aspiring Data Engineer passionate about Big Data, Lakehouse Architecture, and Machine Learning.
+Driven by a strong passion for Data Engineering and modern Lakehouse architectures, I specialize in building scalable and reliable data pipelines using Databricks, PySpark, Delta Lake, Python, and SQL.
 
+I have a solid background in Computer Systems, Software, and Data Engineering, with hands-on experience designing end-to-end ETL/ELT pipelines, transforming raw data into analytics-ready solutions, and implementing modern Medallion Architectures (Bronze, Silver, Gold).
+
+My expertise includes:
+
+* Databricks & Delta Lake
+* PySpark & Spark SQL
+* Data Modeling (Fact & Dimension Tables)
+* ETL/ELT Pipelines
+* Data Cleaning & Transformation
+* Lakehouse Architecture
+* Git & GitHub
+
+I continuously improve my skills through real-world projects, Kaggle competitions, and professional certifications while focusing on scalable, high-performance, and production-ready data solutions.
